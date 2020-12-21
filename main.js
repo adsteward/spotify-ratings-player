@@ -15,11 +15,12 @@ app.on("ready", () => {
 function createWindow() {
   window = new BrowserWindow({
     width: 300,
-    height: 450,
+    height: 375,
     show: false,
     frame: false,
     fullscreenable: false,
     resizable: false,
+    transparent: true,
     webPreferences: {
       nodeIntegration: true,
       backgroundThrottling: false,
