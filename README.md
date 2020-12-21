@@ -1,6 +1,6 @@
 ### Spotify Players w/ Ratings
 
-~eventually~ this will be a toolbar app where users can play/pause/skip spotify and rate each song out of three stars.
+**eventually** this will be a toolbar app where users can play/pause/skip spotify and rate each song out of three stars.
 
 The concept is that users will initially set up playlists for "1 star," "2 star," and "3 star" songs to which the corresponding songs will but put upon rating
 
